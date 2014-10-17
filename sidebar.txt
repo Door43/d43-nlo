@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nlo:home|Door43 (nlo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nlo|d43-nlo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nlo/archive/master.zip|d43-nlo.zip]]
+
+**Recent Changes**
+{{changes>ns = nlo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nlo|Ethnologue data]]
+
